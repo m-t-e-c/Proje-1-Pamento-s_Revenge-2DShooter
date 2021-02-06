@@ -15,7 +15,7 @@ TagManager:
   - 
   - ground
   - player
-  - 
+  - interactible
   - 
   - 
   - 
@@ -46,4 +46,7 @@ TagManager:
     locked: 0
   - name: entities
     uniqueID: 1786404449
+    locked: 0
+  - name: interactible
+    uniqueID: 2459230051
     locked: 0
